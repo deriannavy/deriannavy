@@ -1,5 +1,3 @@
-# ![https://diez.dev](https://raw.githubusercontent.com/deriannavy/deriannavy/master/pic.png) Hola, mi nombre es Derian Escalante 👋
-
 <h1 align="center">Hi, Welcome to my repositories! ✌🏻</h1>
 
 <p align="center">
